@@ -1,0 +1,10 @@
+# Eclipse
+*.launch
+.settings/
+bin/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
